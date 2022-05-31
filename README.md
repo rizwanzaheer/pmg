@@ -2,14 +2,15 @@
 
 Tech Stack used to done this assignment:
 
-- [Vue v3](https://vuejs.org/guide/introduction.html)
-- [Vuex v4](https://vuejs.org/guide/introduction.html)
-- [Vite](https://vitejs.dev/guide/)
+- [Vue v3](https://vuejs.org/guide/introduction.html) - Using latest version of VUE3 with setup script for developing the components
+- [Vuex v4](https://vuejs.org/guide/introduction.html) - for handling the state management system in vue application
+- [Vite](https://vitejs.dev/guide/) - for the dev server
+- [SCSS] - Using SCSS for styling the component
 - [Tailwind CSS v3](https://tailwindcss.com/docs/configuration)
-- [Vue Router v4](https://github.com/vuejs/router)
+- [Vue Router v4](https://github.com/vuejs/router) - handling the routing for the application
 - [Vue I18n v9](https://github.com/intlify/vue-i18n-next)
-- [Axios](https://github.com/axios/axios)
-- [Docker](https://github.com/docker)
+- [Axios](https://github.com/axios/axios) - for calling the APIs request in vue app
+- [Docker](https://github.com/docker) - for containerization application
 - [Inter var font](https://github.com/rsms/inter) (self-hosted, woff2, v3.19, with 'preload' attr, check out index.html)
 - [Headless UI](https://headlessui.dev/vue/menu) - unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS
 - [Heroicons](https://github.com/tailwindlabs/heroicons#vue) - beautiful hand-crafted SVG icons,
