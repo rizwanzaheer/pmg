@@ -1,0 +1,53 @@
+{
+    "name": "pmg-assignment",
+    "version": "0.0.1",
+    "scripts": {
+        "dev": "vite --host",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "dependencies": {
+        "@originjs/vite-plugin-require-context": "^1.0.9",
+        "@vueuse/core": "^8.2.0",
+        "ant-design-vue": "^2.2.8",
+        "axios": "^0.26.1",
+        "date-fns": "^2.28.0",
+        "lodash": "^4.17.21",
+        "moment": "^2.29.1",
+        "sass": "^1.49.9",
+        "vite-plugin-components": "^0.13.3",
+        "vue": "^3.2.31",
+        "vue-i18n": "9",
+        "vue-router": "^4.0.12",
+        "vuex": "^4.0.2"
+    },
+    "devDependencies": {
+        "@headlessui/vue": "^1.5.0",
+        "@heroicons/vue": "^1.0.5",
+        "@tailwindcss/aspect-ratio": "^0.4.0",
+        "@tailwindcss/forms": "^0.4.0",
+        "@tailwindcss/line-clamp": "^0.3.1",
+        "@tailwindcss/typography": "^0.5.2",
+        "@types/tailwindcss": "^3.0.8",
+        "@vitejs/plugin-vue": "^2.2.2",
+        "autoprefixer": "^10.4.2",
+        "eslint": "^7.32.0",
+        "eslint-config-prettier": "^8.3.0",
+        "eslint-plugin-vue": "^7.19.1",
+        "prettier": "^2.4.1",
+        "prettier-plugin-tailwindcss": "^0.1.7",
+        "tailwindcss": "^3.0.23",
+        "vite": "^2.8.4",
+        "vite-plugin-compression": "^0.5.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rizwanzaheer/pmg"
+    },
+    "author": "rizwanzaheer",
+    "description": "PMG Assignment website",
+    "license": "ISC",
+    "bugs": {
+        "url": ""
+    }
+}
